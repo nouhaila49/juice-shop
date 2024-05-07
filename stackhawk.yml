@@ -1,1 +1,4 @@
-
+app:
+  applicationID: 83cc35f3-44eb-4b85-b704-2cc2b46b0a3a
+  env: Development
+  host: http://127.0.0.1:8080
